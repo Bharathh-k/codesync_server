@@ -59,7 +59,7 @@ Build CodeSync Server from the source and install dependencies:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/thanethvk/codesync_server
+   git clone https://github.com/Bharathh-k/codesync_server
 
 2. Navigate to the project directory:
   ```
